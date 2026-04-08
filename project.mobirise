@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -82,7 +82,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
